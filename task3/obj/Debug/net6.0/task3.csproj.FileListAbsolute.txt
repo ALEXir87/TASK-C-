@@ -1,0 +1,15 @@
+F:\ALEX\Учеба\УНТИ-2035\1 четверть\2.Семинары\3с.Знакомство с языками рограммирования\TASK\task3\obj\Debug\net6.0\task3.csproj.AssemblyReference.cache
+F:\ALEX\Учеба\УНТИ-2035\1 четверть\2.Семинары\3с.Знакомство с языками рограммирования\TASK\task3\obj\Debug\net6.0\task3.GeneratedMSBuildEditorConfig.editorconfig
+F:\ALEX\Учеба\УНТИ-2035\1 четверть\2.Семинары\3с.Знакомство с языками рограммирования\TASK\task3\obj\Debug\net6.0\task3.AssemblyInfoInputs.cache
+F:\ALEX\Учеба\УНТИ-2035\1 четверть\2.Семинары\3с.Знакомство с языками рограммирования\TASK\task3\obj\Debug\net6.0\task3.AssemblyInfo.cs
+F:\ALEX\Учеба\УНТИ-2035\1 четверть\2.Семинары\3с.Знакомство с языками рограммирования\TASK\task3\obj\Debug\net6.0\task3.csproj.CoreCompileInputs.cache
+F:\ALEX\Учеба\УНТИ-2035\1 четверть\2.Семинары\3с.Знакомство с языками рограммирования\TASK\task3\bin\Debug\net6.0\task3.exe
+F:\ALEX\Учеба\УНТИ-2035\1 четверть\2.Семинары\3с.Знакомство с языками рограммирования\TASK\task3\bin\Debug\net6.0\task3.deps.json
+F:\ALEX\Учеба\УНТИ-2035\1 четверть\2.Семинары\3с.Знакомство с языками рограммирования\TASK\task3\bin\Debug\net6.0\task3.runtimeconfig.json
+F:\ALEX\Учеба\УНТИ-2035\1 четверть\2.Семинары\3с.Знакомство с языками рограммирования\TASK\task3\bin\Debug\net6.0\task3.dll
+F:\ALEX\Учеба\УНТИ-2035\1 четверть\2.Семинары\3с.Знакомство с языками рограммирования\TASK\task3\bin\Debug\net6.0\task3.pdb
+F:\ALEX\Учеба\УНТИ-2035\1 четверть\2.Семинары\3с.Знакомство с языками рограммирования\TASK\task3\obj\Debug\net6.0\task3.dll
+F:\ALEX\Учеба\УНТИ-2035\1 четверть\2.Семинары\3с.Знакомство с языками рограммирования\TASK\task3\obj\Debug\net6.0\refint\task3.dll
+F:\ALEX\Учеба\УНТИ-2035\1 четверть\2.Семинары\3с.Знакомство с языками рограммирования\TASK\task3\obj\Debug\net6.0\task3.pdb
+F:\ALEX\Учеба\УНТИ-2035\1 четверть\2.Семинары\3с.Знакомство с языками рограммирования\TASK\task3\obj\Debug\net6.0\task3.genruntimeconfig.cache
+F:\ALEX\Учеба\УНТИ-2035\1 четверть\2.Семинары\3с.Знакомство с языками рограммирования\TASK\task3\obj\Debug\net6.0\ref\task3.dll
